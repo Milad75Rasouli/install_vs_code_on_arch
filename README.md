@@ -1,6 +1,6 @@
 # How to install Visual Studio Code on Arch Linux
 
-** For installing VS code perform this command:**
+**For installing VS code perform this command:**
 
 ```
 sudo pacman -S code
